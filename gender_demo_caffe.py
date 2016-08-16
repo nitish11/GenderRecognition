@@ -1,3 +1,6 @@
+#Caffe implementation source:
+#http://nbviewer.jupyter.org/url/www.openu.ac.il/home/hassner/projects/cnn_agegender/cnn_age_gender_demo.ipynb
+
 import os
 import numpy as np
 import sys
