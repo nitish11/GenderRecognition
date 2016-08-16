@@ -1,3 +1,5 @@
+--Lua implementation source :
+--https://github.com/szagoruyko/torch-opencv-demos/blob/master/age_gender/demo.lua
 
 local cv = require 'cv'
 require 'cv.objdetect'
