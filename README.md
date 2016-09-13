@@ -18,9 +18,9 @@ Models can be downloaded from [here](http://www.openu.ac.il/home/hassner/project
 - keep the codes and 'models' in the same location
 - Make sure Camera is connected as USBID is 0(default)
 - To check different implementation, run the following codes
-**python gender_demo_lua.py : Python wrapper to run Lua code, fastest code
-**th gender_demo_torch.lua  : Lua code to detect gender, best accuracy 
-**python gender_demo_caffe.py : Caffe code, slower
+  - python gender_demo_lua.py : Python wrapper to run Lua code, fastest code
+  - th gender_demo_torch.lua  : Lua code to detect gender, best accuracy 
+  - python gender_demo_caffe.py : Caffe code, slower
 
 
 
