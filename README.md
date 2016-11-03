@@ -37,3 +37,6 @@ http://nbviewer.jupyter.org/url/www.openu.ac.il/home/hassner/projects/cnn_agegen
 - http://www.openu.ac.il/home/hassner/projects/cnn_agegender/
 - http://www.openu.ac.il/home/hassner/projects/cnn_agegender/cnn_age_gender_models_and_data.0.0.2.zip
 
+- As far as speed is concerned, you can check a discussion over here.  https://github.com/GilLevi/AgeGenderDeepLearning/issues/6
+
+- The subtraction from the mean  is a way of normalization, please find a detailed answer here http://stats.stackexchange.com/a/220970
