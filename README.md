@@ -23,9 +23,6 @@ Models can be downloaded from [here](http://www.openu.ac.il/home/hassner/project
   - python gender_demo_caffe.py : Caffe code, slower
   
 
-### Discussion:
-- https://github.com/GilLevi/AgeGenderDeepLearning/issues/6
-
 ## Lua implementation source : 
 https://github.com/szagoruyko/torch-opencv-demos/blob/master/age_gender/demo.lua
 
